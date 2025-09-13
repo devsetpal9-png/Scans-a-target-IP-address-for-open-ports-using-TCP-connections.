@@ -18,5 +18,4 @@ A fast, multithreaded TCP port scanner built with Python. This tool scans a targ
 ## 💻 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/port-scanner.git
-cd port-scanner
+git clone https://https://github.com/devsetpal9-png/Scans-a-target-IP-address-for-open-ports-using-TCP-connections
